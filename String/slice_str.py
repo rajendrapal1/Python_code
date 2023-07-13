@@ -1,0 +1,9 @@
+name="software"
+b=name[:]
+c=name[1:]
+d=name[:-1]
+e=name[:2:1]
+print(b)
+print(c)
+print(d)
+print(e)
